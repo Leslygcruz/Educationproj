@@ -2,25 +2,12 @@
 
 ---
 
-## **Executive Summary**
-
-This project explores the relationship between **education levels** and **financial decisions**. The goal is to uncover whether individuals with higher education levels demonstrate:  
-
-- Better **income management**.  
-- More **prudent spending patterns**.  
-- Greater participation in **investments** and **retirement planning**.
-
-The analysis uses household-level data to identify patterns and correlations, providing insights into how education impacts money management.
-
----
-
 ## **Motivation**
 
-Growing up, I was fascinated with personal finance—saving, investing, and planning for the future. At 18, I opened a brokerage account and began contributing to a **Roth IRA**, investing in ETFs and stocks. Sharing these experiences with my family revealed a significant gap in **financial literacy**:  
-
-- My parents, with limited formal education, were unfamiliar with investment vehicles.  
-- Even some higher-educated relatives lacked knowledge about **Roth IRAs** and passive investing.  
-
+Growing up, I was fascinated with personal finance—saving, investing, and planning for the future.
+At 18, I opened a brokerage account and began contributing to a Roth IRA, investing in multiple ETFs and stocks.
+Sharing these experiences with my family revealed a significant gap in financial literacy. My parents, with limited formal education,
+were unfamiliar with investment vehicles. While more higher-educated relatives were more aware of what Roth IRAs and passive investing.
 This sparked my curiosity about the connection between **education** and **financial decision-making**, inspiring this capstone project.
 
 ---
