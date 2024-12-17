@@ -2,10 +2,10 @@
 
 ## **Table of Contents**
 
-	- [Motivation](#Motivation)
-	- [Data Questions](#Data-Questions)
-	- [Data Source](#Data-Source)
-	- [Challenges](#Challenges)
+- [Motivation](#Motivation)
+- [Data Questions](#Data-Questions)
+- [Data Source](#Data-Source)
+- [Challenges](#Challenges)
 - [Project Goals](#Project-Goals)
 - [Tools and Technologies](#Tools-and-Technologies)
 - [Visualizations](#Visualizations)
@@ -65,6 +65,5 @@ The project uses the following datasets:
 
 
 ## **Visualizations**
-
-1. **Bar Charts**: 
-- Education levels vs. income  
+- **Python**: pandas, numpy, matplotlib, seaborn  
+- **Tableau**: Interactive dashboards   
