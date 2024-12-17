@@ -1,26 +1,26 @@
-# **Education and Financial Decisions Capstone**
+# **Education vs. Financial Decisions**
 
----
 
 ## **Motivation**
 
-Growing up, I was fascinated with personal finance—saving, investing, and planning for the future.
-At 18, I opened a brokerage account and began contributing to a Roth IRA, investing in multiple ETFs and stocks.
-Sharing these experiences with my family revealed a significant gap in financial literacy. My parents, with limited formal education,
-were unfamiliar with investment vehicles. While more higher-educated relatives were more aware of what Roth IRAs and passive investing.
-This sparked my curiosity about the connection between **education** and **financial decision-making**, inspiring this capstone project.
-
----
+Growing up, I was always fascinated by personal finance—saving, investing, and planning for the future. When I turned 18, I opened a brokerage account and started contributing to a Roth IRA. It was exciting to take those first steps, but when I shared what I was learning with my
+family, I realized something important: there was a real gap in financial literacy.
+My parents, who didn’t have the chance for much formal education, were unfamiliar with tools like Roth IRAs,
+while my higher-educated relatives seemed much more comfortable with concepts like investing and saving.
+This made me curious about the connection between education and the financial decisions
+people make. 
+My degree in Financial Technology introduced me to the world of financial systems,
+but it was at the Nashville Software School where I really developed the skills to analyze data and uncover insights.
+This capstone project brings it all together—my personal experiences,
+my technical training, and my desire to understand how education shapes 
+financial behaviors and, ultimately, quality of life.
 
 ## **Data Questions**
 
 1. How do different education levels correlate with **income**?  
 2. Do households with higher education demonstrate more **prudent spending habits**?  
 3. Do higher-educated households derive a greater portion of income from **passive investments**?  
-4. Are higher-educated households more likely to have **retirement accounts**?  
-5. Does the overall education level influence **investment participation rates**?  
-
----
+4. Are higher-educated households more likely to have **retirement accounts**? 
 
 ## **Data Sources**
 
@@ -28,12 +28,8 @@ The project uses the following datasets:
 
 1. **U.S. Bureau of Labor Statistics – Consumer Expenditure Survey**:  
    - **FMLI**: Provides household demographic and income data.  
-   - **MTBI**: Includes detailed spending patterns by category.
-
-2. **Federal Reserve – Survey of Consumer Finances (SCF)**:  
-   - Focuses on 2022 household data, including **income**, **net worth**, and **education levels**.
-
----
+   - **MTBI**: Includes detailed houshold spending patterns by category.
+   - **Website**: [bls](https://www.bls.gov/cex/pumd_data.htm#csv)
 
 ## **Challenges**
 
@@ -41,8 +37,7 @@ The project uses the following datasets:
 - **Volume of Data**: The datasets contain over **4,000 rows** across multiple quarters.  
 - **Ambiguous Descriptions**: Some variables lack clear definitions.  
 - **Population Variances**: Accounting for differences across regions and education levels is complex.
-
----
+- **
 
 ## **Project Goals**
 
@@ -50,7 +45,6 @@ The project uses the following datasets:
 - Investigate spending habits and **investment behaviors** of households.  
 - Present findings through clear **visualizations** and **interactive dashboards**.
 
----
 
 ## **Tools and Technologies**
 
