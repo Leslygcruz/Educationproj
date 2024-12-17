@@ -1,13 +1,13 @@
 # **Education vs. Financial Decisions**
 
 ## **Table of Contents**
-- [Motivation](#motivation)
-- [Data Questions](#data-questions)
-- [Data Source](#data-source)
-- [Challenges](#challenges)
-- [Project Goals](#projec-goals)
-- [Tools and Technologies](#tools-and-tech)
-- [Visualizations](#visuals)
+* [Motivation](#motivation)
+* [Data Questions](#data-questions)
+* [Data Source](#data-source)
+* [Challenges](#challenges)
+* [Project Goals](#projec-goals)
+* [Tools and Technologies](#tools-and-tech)
+* [Visualizations](#visuals)
 
 
 ## **Motivation**
