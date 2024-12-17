@@ -1,7 +1,13 @@
 # **Education vs. Financial Decisions**
 
 ## **Table of Contents**
--[Motivation](#motivation)
+- [Motivation](#motivation)
+- [Data Questions](#data-questions)
+- [Data Source](#data-source)
+- [Challenges](#challenges)
+- [Project Goals](#projec-goals)
+- [Tools and Technologies](#tools-and-tech)
+- [Visualizations](#visuals)
 
 
 ## **Motivation**
@@ -27,7 +33,7 @@ and my desire to understand how education shapes financial behaviors and, ultima
 3. Do higher-educated households derive a greater portion of income from **passive investments**?  
 4. Are higher-educated households more likely to have **retirement accounts**? 
 
-## **Data Sources**
+## **Data Source**
 
 The project uses the following datasets:
 
