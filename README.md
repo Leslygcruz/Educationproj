@@ -60,8 +60,7 @@ The project uses the following datasets:
 
 - **Python**: pandas, numpy, matplotlib, seaborn  
 - **Tableau**: Interactive dashboards  
-- **Excel**: Quick data exploration and summary visuals  
-- **Jupyter Notebooks**: Step-by-step data analysis workflow  
+- **Excel**: Quick data exploration and summary visuals
 
 
 ## **Visualizations**
