@@ -1,0 +1,21 @@
+Region,Education level,Income per Capita
+Midwest,No degree,18642.374305785823
+Midwest,High School,30457.431897800332
+Midwest,Associate Degree,36094.85612229053
+Midwest,Bachelor Degree,50266.82709166332
+Midwest,Master Degree,59987.845212835186
+Northeast,No degree,19815.08822208572
+Northeast,High School,30002.487591670757
+Northeast,Associate Degree,37251.1323313492
+Northeast,Bachelor Degree,60114.86063858696
+Northeast,Master Degree,76019.5415788519
+South,No degree,17457.80553377959
+South,High School,25833.704922914818
+South,Associate Degree,32641.270833561277
+South,Bachelor Degree,48010.11625405027
+South,Master Degree,66708.45722998993
+West,No degree,18916.244570585077
+West,High School,31587.123366721462
+West,Associate Degree,35750.74451544937
+West,Bachelor Degree,59080.10354355044
+West,Master Degree,77485.57339480636
