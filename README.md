@@ -12,19 +12,21 @@
 
 ## **Motivation**
 
-Growing up, I was always fascinated by personal finance—saving, investing, and planning for the future.
-When I turned 18, I opened a brokerage account and started contributing to a Roth IRA.
-It was exciting to take those first steps, but when I shared what I was learning with my
-family, I realized something important: there was a real gap in financial literacy.
-My parents, who didn’t have the chance for much formal education, were unfamiliar with tools like Roth IRAs,
-while my higher-educated relatives seemed much more comfortable with concepts like investing and saving.
-
-This made me curious about the connection between education and the financial decisions
-people make. My degree in Financial Technology introduced me to the world of financial systems,
-but it was at the Nashville Software School where I really developed the skills to analyze data and uncover insights.
-
-This capstone project brings it all together—my personal experiences,my technical training,
-and my desire to understand how education shapes financial behaviors and, ultimately, quality of life.
+From a young age, I’ve been fascinated by finance—how economies function, the strategies
+behind saving and investing, and the factors that influence financial decision-making. 
+Growing up in a low-income household, I noticed a significant lack of financial literacy 
+among those around me. With limited formal education and financial literacy, many individuals
+managed money reactively, spending without budgets or saving plans. However, while accompanying
+my mother, a hardworking housekeeper, to the homes of wealthy families. There, I witnessed
+a stark contrast: these individuals demonstrated disciplined financial behaviors, carefully
+budgeting and allocating their resources. Observing this inspired me to explore the role 
+education plays in financial decision-making. I became curious about whether education equips
+individuals with better tools and knowledge to manage money effectively. This curiosity
+laid the foundation for my capstone project. My research examines the impact of education
+on financial decision-making, with a focus on whether more educated individuals have higher 
+incomes and overall better financial behaviors. Through this project, I aim to explore the
+intersection of education, financial literacy, and economic outcomes, while leveraging my 
+skills in data cleaning, analysis, and visualization.  
 
 ## **Data Questions**
 
